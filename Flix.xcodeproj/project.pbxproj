@@ -170,7 +170,6 @@
 				CAE62D1E42E74AFF6539324C /* Pods-FlixTests.debug.xcconfig */,
 				7FE0519B5A259649DA6F31CA /* Pods-FlixTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
